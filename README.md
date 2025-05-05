@@ -26,7 +26,7 @@
   
   ## 📢 Last Commit
   
-  > "updating readme_generation.yml file"
+  > "📚 Auto-generation README"
   
   ---
   
