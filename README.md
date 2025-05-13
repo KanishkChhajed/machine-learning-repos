@@ -5,13 +5,13 @@
 
 <!-- Github status Badges -->
  ## 📊 Stats
- <div style="display:inline-block; margin:5px;">
+ <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;">
     <!-- Watch -->
-    <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;"><img src="icons/watch-icon.svg" alt="watchs" width="30" height="30">0</div>
+    <img src="icons/watch-icon.svg" alt="watchs" width="30" height="30">0
     <!-- Fork -->
-     <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;"><img src="icons/fork-icon.svg" alt="fork" width="30" height="30">0</div>
+     <img src="icons/fork-icon.svg" alt="fork" width="30" height="30">0
      <!-- Star -->
-      <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;"><img src="icons/star-icon.svg" alt="star" width="30" height="30">0</div>
+      <img src="icons/star-icon.svg" alt="star" width="30" height="30">0
  </div>
 
  <!-- Introduction -->
@@ -23,49 +23,51 @@
  
 <!-- TechStack Badges -->
 ## 🛠️Tools and FramWorks
+<div style="display: inline-block; margin: 5px;">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-DBD376?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/ast-2bbc8a?style=for-the-badge&logo=ast&logoColor=white" alt="ast"/>
+  <img src="https://img.shields.io/badge/ast-C996E8?style=for-the-badge&logo=ast&logoColor=white" alt="ast" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/pycodestyle-2bbc8a?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle"/>
+  <img src="https://img.shields.io/badge/pycodestyle-88D64B?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/streamlit-2bbc8a?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
+  <img src="https://img.shields.io/badge/streamlit-AF5B06?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/dotenv-2bbc8a?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv"/>
+  <img src="https://img.shields.io/badge/dotenv-41F70A?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/google-generativeai-2bbc8a?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai"/>
+  <img src="https://img.shields.io/badge/google-generativeai-7C8F90?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/speech_recognition-2bbc8a?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition"/>
+  <img src="https://img.shields.io/badge/speech_recognition-359660?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/gtts-2bbc8a?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts"/>
+  <img src="https://img.shields.io/badge/gtts-030E65?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/pandas-2bbc8a?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/pandas-C08AED?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/numpy-2bbc8a?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/numpy-10BCB2?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/matplotlib-2bbc8a?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/matplotlib-C901C3?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/glob-2bbc8a?style=for-the-badge&logo=glob&logoColor=white" alt="glob"/>
+  <img src="https://img.shields.io/badge/glob-7E38DC?style=for-the-badge&logo=glob&logoColor=white" alt="glob" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/tensorflow-2bbc8a?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/tensorflow-FD6DCF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/opencv-2bbc8a?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
+  <img src="https://img.shields.io/badge/opencv-333975?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/scikit-learn-2bbc8a?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/scikit-learn-AF97A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/seaborn-2bbc8a?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
+  <img src="https://img.shields.io/badge/seaborn-A4903A?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/opencv-python-2bbc8a?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python"/>
+  <img src="https://img.shields.io/badge/opencv-python-9021EE?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/random-2bbc8a?style=for-the-badge&logo=random&logoColor=white" alt="random"/>
+  <img src="https://img.shields.io/badge/random-C0B91B?style=for-the-badge&logo=random&logoColor=white" alt="random" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/shutil-2bbc8a?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil"/>
+  <img src="https://img.shields.io/badge/shutil-78A50F?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/graphviz-2bbc8a?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz"/>
+  <img src="https://img.shields.io/badge/graphviz-9E1F06?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/Flask-2bbc8a?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Flask-E751A5?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin-right:5px;margin-bottom:5px;"/>
 
+</div>
 
  <!-- Demo -->
   ## 🖼️ Demo
@@ -87,10 +89,33 @@
 <!-- Insides -->
  <details open> 
   <summary><h2>📈 Contribution Stats</h2></summary>
-  <h4>Top Contributors</h4>
+  <h4 style="margin-left: 20px;">🏆Top Contributors</h4>
+ <!-- <div style="background-color: white;padding: 15px;border-radius: 30px; height:90%; margin-right: 20px; overflow: scroll;"> -->
+    
+- **sanjay-kv** — `` contributions  
+  [<img src="https://avatars.githubusercontent.com/u/30715153?v=4" width="50" alt="sanjay-kv" title="sanjay-kv">](https://avatars.githubusercontent.com/u/30715153?v=4)
+
+- **alo7lika** — `` contributions  
+  [<img src="https://avatars.githubusercontent.com/u/152315710?v=4" width="50" alt="alo7lika" title="alo7lika">](https://avatars.githubusercontent.com/u/152315710?v=4)
+
+- **sanyadureja** — `` contributions  
+  [<img src="https://avatars.githubusercontent.com/u/84080312?v=4" width="50" alt="sanyadureja" title="sanyadureja">](https://avatars.githubusercontent.com/u/84080312?v=4)
+
+
   <h4>Weekly Leaderboard</h4>
-  <h4>latest Issues Open</h4>
-  <h4>Lastest Issues Closed</h4>
+  <div>
+
+  </div>
+
+  <h4>⚠️latest Issues Open</h4>
+  
+    > No new Issue is open currently.
+  
+
+  <h4>✅ Lastest Issues Closed</h4>
+  
+    > No new Issue is open currently.
+  
 </details>
 
 <!-- Owner -->
