@@ -1,40 +1,109 @@
-<h1 align="center">
-    <img src="https://img.shields.io/badge/machine-learning-repos-🎯-blueviolet?style=for-the-badge" alt="Repo Badge" width="100">
-  </h1>
-  
-  <p align="center">
+<!-- Heading -->
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&size=25&pause=1000&width=435&lines=machine-learning-repos+Repository!" alt="Typing SVG" ></h1>
+
+
+
+<!-- Github status Badges -->
+ ## 📊 Stats
+ <div style="display:inline-block; margin:5px;">
+    <!-- Watch -->
+    <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;"><img src="icons/watch-icon.svg" alt="watchs" width="30" height="30">0</div>
+    <!-- Fork -->
+     <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;"><img src="icons/fork-icon.svg" alt="fork" width="30" height="30">0</div>
+     <!-- Star -->
+      <div style="background-color:white; border-radius: 5px;border-color: beige; display:flex; flex-wrap: wrap; padding: 2px;"><img src="icons/star-icon.svg" alt="star" width="30" height="30">0</div>
+ </div>
+
+ <!-- Introduction -->
+  ## 
+  <details open> 
+  <summary><h2>📖 About Project</h2></summary>
+  Details About your project goes here
+</details>
+ 
+<!-- TechStack Badges -->
+## 🛠️Tools and FramWorks
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+  <img src="https://img.shields.io/badge/ast-2bbc8a?style=for-the-badge&logo=ast&logoColor=white" alt="ast"/>
+
+  <img src="https://img.shields.io/badge/pycodestyle-2bbc8a?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle"/>
+
+  <img src="https://img.shields.io/badge/streamlit-2bbc8a?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
+
+  <img src="https://img.shields.io/badge/dotenv-2bbc8a?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv"/>
+
+  <img src="https://img.shields.io/badge/google-generativeai-2bbc8a?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai"/>
+
+  <img src="https://img.shields.io/badge/speech_recognition-2bbc8a?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition"/>
+
+  <img src="https://img.shields.io/badge/gtts-2bbc8a?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts"/>
+
+  <img src="https://img.shields.io/badge/pandas-2bbc8a?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+
+  <img src="https://img.shields.io/badge/numpy-2bbc8a?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+
+  <img src="https://img.shields.io/badge/matplotlib-2bbc8a?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/>
+
+  <img src="https://img.shields.io/badge/glob-2bbc8a?style=for-the-badge&logo=glob&logoColor=white" alt="glob"/>
+
+  <img src="https://img.shields.io/badge/tensorflow-2bbc8a?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+
+  <img src="https://img.shields.io/badge/opencv-2bbc8a?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
+
+  <img src="https://img.shields.io/badge/scikit-learn-2bbc8a?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+
+  <img src="https://img.shields.io/badge/seaborn-2bbc8a?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
+
+  <img src="https://img.shields.io/badge/opencv-python-2bbc8a?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python"/>
+
+  <img src="https://img.shields.io/badge/random-2bbc8a?style=for-the-badge&logo=random&logoColor=white" alt="random"/>
+
+  <img src="https://img.shields.io/badge/shutil-2bbc8a?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil"/>
+
+  <img src="https://img.shields.io/badge/graphviz-2bbc8a?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz"/>
+
+  <img src="https://img.shields.io/badge/Flask-2bbc8a?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+
+
+ <!-- Demo -->
+  ## 🖼️ Demo
+  <div style="display: flex; flex-wrap: wrap;">
+    Insert your project demo here
+    <!-- <img src="" alt="Demo of your project"> -->
+  </div>
+
+  <!-- Setup --> 
+   <!-- <details open> -->
+  <!-- <summary><h2>⚙️ Setup Process</h2></summary> -->
+   ## ⚙️ Setup Process
+  ```
+  git clone YOUR_FORKED_REPO
+  ```
+
+<!-- </details> -->
+
+<!-- Insides -->
+ <details open> 
+  <summary><h2>📈 Contribution Stats</h2></summary>
+  <h4>Top Contributors</h4>
+  <h4>Weekly Leaderboard</h4>
+  <h4>latest Issues Open</h4>
+  <h4>Lastest Issues Closed</h4>
+</details>
+
+<!-- Owner -->
+ ## ☺️ Owner
+ <section style="display: flex; flex-wrap: wrap;">
     <a href="https://avatars.githubusercontent.com/u/121193249?v=4" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/121193249?v=4" width="100" style="border-radius:50%;">
+      <img src="https://avatars.githubusercontent.com/u/121193249?v=4" width="50" style="border-radius:50%;">
     </a>
-  </p>
-  
-  ---
-  
-  ## 📖 About the Project
-  - **Repository Name:** machine-learning-repos
-  - **Owner:** KanishkChhajed
-  - **Visibility:** public
-  - **Primary Language(s):** Jupyter Notebook,HTML,Python,CSS,JavaScript,Shell,Batchfile,Procfile
-  
-  ---
-  
-  ## 📊 Stats
-  
-  | Stars | Forks | Watchers | Open Issues | Closed Issues |
-  |:----:|:-----:|:--------:|:-----------:|:-------------:|
-  | 0 | 0 | 0 | 0 | 0 |
-  
-  ---
-  
-  ## 📢 Last Commit
-  
-  > "📚 Auto-generation README"
-  
-  ---
-  
-  ## 🤝 Contributors
-  
-  
+ </section>
+
+ <!-- Contributors -->
+ ## 🤝 Contributors
+  <div>
   
   <a href="" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/30715153?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="sanjay-kv"/>
@@ -156,8 +225,6 @@
     <img src="https://avatars.githubusercontent.com/u/75065361?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Svastik73"/>
   </a>
 
-  
-  ---
+</div>
   
   > *Generated with ❤️ by an automated GitHub Action* 🚀
-  
