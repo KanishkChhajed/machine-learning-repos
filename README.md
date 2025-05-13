@@ -25,47 +25,47 @@
 ## 🛠️Tools and FramWorks
 <div style="display: inline-block; margin: 5px;">
 
-  <img src="https://img.shields.io/badge/Python-D3D56B?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/Python-307535?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/ast-FDF105?style=for-the-badge&logo=ast&logoColor=white" alt="ast" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/ast-E22FF9?style=for-the-badge&logo=ast&logoColor=white" alt="ast" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/pycodestyle-1576CC?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/pycodestyle-FD9D85?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/streamlit-627D34?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/streamlit-43ACB4?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/dotenv-B18C7B?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/dotenv-DD29F1?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/google-generativeai-A792C1?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/google-generativeai-DC7E4C?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/speech_recognition-37ACBC?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/speech_recognition-D56DF8?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/gtts-8806A2?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/gtts-4E442D?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/pandas-0A72D3?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/pandas-6D3FEC?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/numpy-8E34FD?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/numpy-92CFFB?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/matplotlib-113E4F?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/matplotlib-04ABC9?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/glob-10F95B?style=for-the-badge&logo=glob&logoColor=white" alt="glob" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/glob-70B037?style=for-the-badge&logo=glob&logoColor=white" alt="glob" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/tensorflow-573BD0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/tensorflow-3D3E05?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/opencv-75B68C?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/opencv-FD0A5F?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/scikit-learn-40CBB9?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/scikit-learn-FAA8CD?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/seaborn-54C8CE?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/seaborn-EC7143?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/opencv-python-338816?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/opencv-python-296A5A?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/random-D0CCCB?style=for-the-badge&logo=random&logoColor=white" alt="random" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/random-4F112E?style=for-the-badge&logo=random&logoColor=white" alt="random" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/shutil-108F44?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/shutil-5213AF?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/graphviz-D513E3?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/graphviz-EBEBC1?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/Flask-700B43?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/Flask-6886B3?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin-right:5px;margin-bottom:5px;"/>
 
 </div>
 
