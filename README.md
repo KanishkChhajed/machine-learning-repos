@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&size=25&pause=1000&width=435&lines=machine-learning-repos+Repository!" alt="Typing SVG" ></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&size=25&pause=1000&width=435&lines=machine-learning-repos" alt="Typing SVG" ></h1>
 
 
 
@@ -25,47 +25,47 @@
 ## 🛠️Tools and FramWorks
 <div style="display: inline-block; margin: 5px;">
 
-  <img src="https://img.shields.io/badge/Python-DBD376?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/Python-D3D56B?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/ast-C996E8?style=for-the-badge&logo=ast&logoColor=white" alt="ast" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/ast-FDF105?style=for-the-badge&logo=ast&logoColor=white" alt="ast" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/pycodestyle-88D64B?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/pycodestyle-1576CC?style=for-the-badge&logo=pycodestyle&logoColor=white" alt="pycodestyle" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/streamlit-AF5B06?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/streamlit-627D34?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/dotenv-41F70A?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/dotenv-B18C7B?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/google-generativeai-7C8F90?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/google-generativeai-A792C1?style=for-the-badge&logo=google-generativeai&logoColor=white" alt="google-generativeai" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/speech_recognition-359660?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/speech_recognition-37ACBC?style=for-the-badge&logo=speech_recognition&logoColor=white" alt="speech_recognition" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/gtts-030E65?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/gtts-8806A2?style=for-the-badge&logo=gtts&logoColor=white" alt="gtts" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/pandas-C08AED?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/pandas-0A72D3?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/numpy-10BCB2?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/numpy-8E34FD?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/matplotlib-C901C3?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/matplotlib-113E4F?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/glob-7E38DC?style=for-the-badge&logo=glob&logoColor=white" alt="glob" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/glob-10F95B?style=for-the-badge&logo=glob&logoColor=white" alt="glob" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/tensorflow-FD6DCF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/tensorflow-573BD0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/opencv-333975?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/opencv-75B68C?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/scikit-learn-AF97A8?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/scikit-learn-40CBB9?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/seaborn-A4903A?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/seaborn-54C8CE?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/opencv-python-9021EE?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/opencv-python-338816?style=for-the-badge&logo=opencv-python&logoColor=white" alt="opencv-python" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/random-C0B91B?style=for-the-badge&logo=random&logoColor=white" alt="random" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/random-D0CCCB?style=for-the-badge&logo=random&logoColor=white" alt="random" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/shutil-78A50F?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/shutil-108F44?style=for-the-badge&logo=shutil&logoColor=white" alt="shutil" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/graphviz-9E1F06?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/graphviz-D513E3?style=for-the-badge&logo=graphviz&logoColor=white" alt="graphviz" style="margin-right:5px;margin-bottom:5px;"/>
 
-  <img src="https://img.shields.io/badge/Flask-E751A5?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin-right:5px;margin-bottom:5px;"/>
+  <img src="https://img.shields.io/badge/Flask-700B43?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin-right:5px;margin-bottom:5px;"/>
 
 </div>
 
@@ -92,13 +92,13 @@
   <h4 style="margin-left: 20px;">🏆Top Contributors</h4>
  <!-- <div style="background-color: white;padding: 15px;border-radius: 30px; height:90%; margin-right: 20px; overflow: scroll;"> -->
     
-- **sanjay-kv** — `` contributions  
+- **sanjay-kv** —  contributions  
   [<img src="https://avatars.githubusercontent.com/u/30715153?v=4" width="50" alt="sanjay-kv" title="sanjay-kv">](https://avatars.githubusercontent.com/u/30715153?v=4)
 
-- **alo7lika** — `` contributions  
+- **alo7lika** —  contributions  
   [<img src="https://avatars.githubusercontent.com/u/152315710?v=4" width="50" alt="alo7lika" title="alo7lika">](https://avatars.githubusercontent.com/u/152315710?v=4)
 
-- **sanyadureja** — `` contributions  
+- **sanyadureja** —  contributions  
   [<img src="https://avatars.githubusercontent.com/u/84080312?v=4" width="50" alt="sanyadureja" title="sanyadureja">](https://avatars.githubusercontent.com/u/84080312?v=4)
 
 
@@ -114,7 +114,7 @@
 
   <h4>✅ Lastest Issues Closed</h4>
   
-    > No new Issue is open currently.
+    > All Issues are closed currently.
   
 </details>
 
@@ -130,123 +130,123 @@
  ## 🤝 Contributors
   <div>
   
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/30715153?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="sanjay-kv"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/152315710?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="alo7lika"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/84080312?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="sanyadureja"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/138239913?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="ananas304"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/143840497?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="jeet-Abhi123"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/100479594?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="pavitraag"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/92214013?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="aditya-bhaumik"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/146704161?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Archi20876"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/137288727?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="RajKhanke"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/115856774?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="sreevidya-16"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/154231889?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="AditiSingh-09"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/163530398?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="RadhikaMalpani1702"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="dependabot[bot]"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/101971980?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="MastanSayyad"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/145869907?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="ananyag309"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/102135464?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="priyankeshh"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/109503478?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Shravanikale"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/110098153?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="ashis2004"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/167574361?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Ishita-Jena"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/114163734?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="vansh-codes"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/165953910?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Panchadip-128"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/72603662?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="shreyash3087"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/139568635?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="pranavvb03"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/116499703?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="anushkasaxena07"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/98252196?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Shantnu-singh"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/144632601?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Aditijainnn"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/118012663?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="hafsa-wasi"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/130086832?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="SOMNATH0904"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/68930485?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="ubaid2751"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href = "#" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/75065361?v=4" width="50" style="border-radius:50%; margin: 5px;" alt="Svastik73"/>
   </a>
 
